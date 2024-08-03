@@ -1,14 +1,14 @@
-*{
+* {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
-body{
+body {
     background-color: rgb(178, 127, 230);
 }
-main{
+main {
     background-color:white;
     width: 500px; /*tamanho*/
     margin:auto; /*centralizado*/
-     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0,0,0,0.473);
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
